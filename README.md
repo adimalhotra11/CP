@@ -1,2 +1,1 @@
-# Anomaly-Detection
-# CP
+# Codeforces contests
